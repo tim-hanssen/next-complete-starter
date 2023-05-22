@@ -1,4 +1,4 @@
-# Next 13 Minimal Starter
+# Next 13 Starter
 
 Look at the [Next 13 documentation](https://nextjs.org/docs) to learn more.
 
