@@ -6,7 +6,6 @@ export const GetStaticPageBySlug = gql`
       _id
       title
       _slug
-      type
       stack {
         __typename
         ... on PageHeader {
